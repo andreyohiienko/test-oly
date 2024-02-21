@@ -1,5 +1,5 @@
 console.log("another log");
 
-function test(params) {}
+function doSomething(params) {}
 
-test();
+doSomething();
